@@ -1,6 +1,6 @@
 
 
-![](https://i.ibb.co.com/XCXcbWW/github-banner.jpg)
+![](https://i.ibb.co.com/4frvw8P/Asadullah-banner-github-2-1.jpg)
 
 
 ### Hi there 👋I'm  Asadullah
