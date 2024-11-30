@@ -4,10 +4,8 @@
 
 
 ### Hi there 👋I'm  Asadullah
-#### I am Full Stack Web Developer 
-![I am Full Stack Web Developer ](file:///C:/Users/h/Downloads/WEB-Full-Stack-Developer.webp)
 
-👨‍💻 Full-Stack Web Developer
+👨‍💻 Full-Stack Web Developer <br/>
 🎓 BSc in Computer Science and Engineering (CSE) Student
 
 🚀 Passionate about building efficient and scalable web applications.
