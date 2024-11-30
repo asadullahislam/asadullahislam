@@ -15,6 +15,7 @@
 🌟 Let’s collaborate to create something impactful! <br/>
 
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="left">Connect with me:</h3>
 
 
 
@@ -30,7 +31,6 @@
 - 💬 Ask me about Full Stack Web Development 
 - ⚡ Fun fact: I thrive on bringing fresh ideas to life through projects, whether simple or intricate, turning creativity into impactful solutions 
 
-<h3 align="left">Connect with me:</h3>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/asadullahislam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-asadullah-186646262/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mdasadullah.islam.737) 
 
 
