@@ -8,11 +8,11 @@
 👨‍💻 Full-Stack Web Developer <br/>
 🎓 BSc in Computer Science and Engineering (CSE) Student
 
-🚀 Passionate about building efficient and scalable web applications.
-💻 Proficient in front-end and back-end technologies (React, Node.js, Express, MongoDB, etc.).
-🎯 Highly determined, focused, and committed to delivering high-quality work.
-🕒 No time wasted—always learning, coding, and growing.
-🌟 Let’s collaborate to create something impactful!
+🚀 Passionate about building efficient and scalable web applications. <br/>
+💻 Proficient in front-end and back-end technologies (React, Node.js, Express, MongoDB, etc.). <br/>
+🎯 Highly determined, focused, and committed to delivering high-quality work. <br/>
+🕒 No time wasted—always learning, coding, and growing. <br/>
+🌟 Let’s collaborate to create something impactful! <br/>
 
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
