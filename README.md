@@ -14,7 +14,7 @@
 🕒 No time wasted—always learning, coding, and growing. <br/>
 🌟 Let’s collaborate to create something impactful! <br/>
 
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate Full Stack Web  developer from Bangladesh</h3>
 
 
 
