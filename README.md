@@ -8,7 +8,7 @@
 👨‍💻 Full-Stack Web Developer <br/>
 🎓 BSc in Computer Science and Engineering (CSE) Student
 
-🚀 Passionate about building efficient and scalable web applications. <br/>
+🚀 Passionate about building efficient and scalable web  applications. <br/>
 💻 Proficient in front-end and back-end technologies (React, Node.js, Express, MongoDB, etc.). <br/>
 🎯 Highly determined, focused, and committed to delivering high-quality work. <br/>
 🕒 No time wasted—always learning, coding, and growing. <br/>
